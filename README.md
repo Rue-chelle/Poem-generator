@@ -18,7 +18,7 @@ Check out the live version here: [alora-ai-poem-generator.netlify.app](https://a
 - **HTML**
 - **CSS**
 - **JavaScript**
-- [External AI API or model if applicable—replace this with actual details if known]
+- **SheCode Ai Api**
 
 ## Getting Started
 
